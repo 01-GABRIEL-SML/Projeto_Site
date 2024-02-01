@@ -4,19 +4,19 @@
 }
 
 body {
-    flood-color: rgb(139, 236, 218);
+    background-color: rgb(87, 233, 255);
 }
 
 main {
-    background-color:rgb(252, 169, 206);
+    background-color:rgb(255, 167, 207);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 6px rgb(252, 252, 252);
 }
 h1{
-    background-color: rgb(106, 88, 172);
+    color: rgb(255, 219, 180);
 }
 h2{
-    background-color: rgb(128, 87, 230);
+    color: rgb(233, 231, 174);
 }
