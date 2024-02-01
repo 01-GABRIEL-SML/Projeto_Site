@@ -8,11 +8,11 @@ body {
 }
 
 main {
-    background-color:rgb(106, 54, 173);
+    background-color:rgb(128, 73, 200);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 6px rgb(154, 182, 220);
+    box-shadow: 3px 3px 6px rgb(96, 46, 162);
 }
 h1{
     color:rgb(255, 255, 255);
