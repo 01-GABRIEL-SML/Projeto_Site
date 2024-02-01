@@ -8,9 +8,15 @@ body {
 }
 
 main {
-    background-color:rgb(250, 231, 240);
+    background-color:rgb(252, 169, 206);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 6px rgb(252, 252, 252);
+}
+h1{
+    background-color: rgb(106, 88, 172);
+}
+h2{
+    background-color: rgb(128, 87, 230);
 }
