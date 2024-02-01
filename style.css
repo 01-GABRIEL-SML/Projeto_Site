@@ -15,7 +15,6 @@ main {
     box-shadow: 3px 3px 6px rgb(121, 71, 187);
 }
 h1{
-    float: inherit;
     color:rgb(255, 255, 255);
 }
 
@@ -25,4 +24,8 @@ h2{
 
 p{
     color: rgb(255, 255, 255);
+}
+
+img.ldCentro{
+    float: unset;
 }
